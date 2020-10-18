@@ -1,0 +1,1 @@
+Parallelizing multiple precision Taylor series method for integrating the Lorenz system
