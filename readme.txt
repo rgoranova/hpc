@@ -1,5 +1,3 @@
-#hpc
-
 Parallelizing multiple precision Taylor series method for integrating the Lorenz system
 
 To run our programs one needs MPIGMP library of Tomonori Kouya. This library can be freely downloaded from:   
